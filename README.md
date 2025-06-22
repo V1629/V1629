@@ -1,6 +1,6 @@
 # Vaibhav_Mishra
 # 💫 About Me:
-I am currently an undergrad college student in IT major .<br>Currently working and learning Agentic AI , Deep learning, and transformers and stuff.<br>interests : Machine learning , Artificial Intelligence, llms<br>fun fact about me : i overthink a lot 
+Currently an undergrad college student in IT major .<br>working and learning Agentic AI , Deep learning, and transformers and stuff.<br>interests : Machine learning , Artificial Intelligence, llms<br>fun fact about me : i overthink a lot 
 
 
 ## 🌐 Socials:
