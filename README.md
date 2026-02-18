@@ -137,13 +137,19 @@
 
 ---
 
-## Contribution Snake
+## Contribution Snake Game
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V1629/V1629/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V1629/V1629/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/V1629/V1629/output/github-snake-dark.svg" />
+</picture>
 
 </div>
+
+> 🎮 **Watch the snake eat my contributions!** This snake animation is generated from my GitHub contribution graph. The more I code, the longer it grows!
 
 ---
 
