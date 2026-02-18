@@ -16,24 +16,24 @@
 
 ```
 $ neofetch
-                          .-/+oossssoo+/-.               vaibhav@github
-                      `:+ssssssssssssssssss+:`           --------------
-                    -+ssssssssssssssssssyyssss+-         Uptime: IT Undergrad
-                  .ossssssssssssssssssdMMMNysssso.       Languages: Python, JavaScript, Java
-                 /ssssssssssshdmmNNmmyNMMMMhssssss/      OS: Ubuntu Linux
-                +ssssssssshmydMMMMMMMNddddyssssssss+     Editor: VS Code / Jupyter
-               /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Focus: Agentic AI Systems
-              .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Passion: Deep Learning, LLMs
-              +sssshhhyNMMNyssssssssssssyNMMMysssssss+   Shell: Bash / Zsh
-              ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Hobby: Gaming, Research Papers
-              ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Quote: "Automate everything"
+                          .-/+oossssoo+/-.                      vaibhav@github
+                      `:+ssssssssssssssssss+:`                  --------------
+                    -+ssssssssssssssssssyyssss+-                Uptime: IT Undergrad
+                  .ossssssssssssssssssdMMMNysssso.              Languages: Python,JavaScript,Java
+                 /ssssssssssshdmmNNmmyNMMMMhssssss/             OS: Ubuntu Linux
+                +ssssssssshmydMMMMMMMNddddyssssssss+            Editor: VS Code / Jupyter
+               /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/           Focus: Agentic AI Systems
+              .ssssssssdMMMNhsssssssssshNMMMdssssssss.          Passion: Deep Learning, LLMs
+              +sssshhhyNMMNyssssssssssssyNMMMysssssss+          Shell: Bash / Zsh
+              ossyNMMMNyMMhsssssssssssssshmmmhssssssso          Hobby: Gaming, Research Papers
+              ossyNMMMNyMMhsssssssssssssshmmmhssssssso          Quote: "Automate everything"
               +sssshhhyNMMNyssssssssssssyNMMMysssssss+
-              .ssssssssdMMMNhsssssssssshNMMMdssssssss.   contacts
-               /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    --------
-                +sssssssssdmydMMMMMMMMddddyssssssss+     GitHub: github.com/V1629
-                 /ssssssssssshdmNNNNmyNMMMMhssssss/      LinkedIn: vaibhav-mishra-a60736294
-                  .ossssssssssssssssssdMMMNysssso.       Twitter: @Vaibhav28569633
-                    -+sssssssssssssssssyyyssss+-         Email: vaibhavmishraad794@gmail.com
+              .ssssssssdMMMNhsssssssssshNMMMdssssssss.          
+               /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/           
+                +sssssssssdmydMMMMMMMMddddyssssssss+            
+                 /ssssssssssshdmNNNNmyNMMMMhssssss/             
+                  .ossssssssssssssssssdMMMNysssso.              
+                    -+sssssssssssssssssyyyssss+-               
                       `:+ssssssssssssssssss+:`
                           .-/+oossssoo+/-.
 ```
