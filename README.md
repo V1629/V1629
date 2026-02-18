@@ -14,23 +14,28 @@
 
 ## About Me
 
-<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-```json
-{
-    "name": "Vaibhav Mishra",
-    "handle": "@V1629",
-    "title": "AI/ML Engineer & IT Undergrad",
-    "location": "India",
-    "interests": [
-        "Agentic AI Systems",
-        "Large Language Models",
-        "Deep Learning",
-        "Intelligent Automation"
-    ],
-    "current_focus": "Building AI that thinks and acts",
-    "philosophy": "Automate everything, optimize ruthlessly"
-}
+```
+$ neofetch
+                          .-/+oossssoo+/-.               vaibhav@github
+                      `:+ssssssssssssssssss+:`           --------------
+                    -+ssssssssssssssssssyyssss+-         Uptime: IT Undergrad
+                  .ossssssssssssssssssdMMMNysssso.       Languages: Python, JavaScript, Java
+                 /ssssssssssshdmmNNmmyNMMMMhssssss/      OS: Ubuntu Linux
+                +ssssssssshmydMMMMMMMNddddyssssssss+     Editor: VS Code / Jupyter
+               /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Focus: Agentic AI Systems
+              .ssssssssdMMMNhsssssssssshNMMMdssssssss.   Passion: Deep Learning, LLMs
+              +sssshhhyNMMNyssssssssssssyNMMMysssssss+   Shell: Bash / Zsh
+              ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Hobby: Gaming, Research Papers
+              ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Quote: "Automate everything"
+              +sssshhhyNMMNyssssssssssssyNMMMysssssss+
+              .ssssssssdMMMNhsssssssssshNMMMdssssssss.   contacts
+               /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    --------
+                +sssssssssdmydMMMMMMMMddddyssssssss+     GitHub: github.com/V1629
+                 /ssssssssssshdmNNNNmyNMMMMhssssss/      LinkedIn: vaibhav-mishra-a60736294
+                  .ossssssssssssssssssdMMMNysssso.       Twitter: @Vaibhav28569633
+                    -+sssssssssssssssssyyyssss+-         Email: vaibhavmishraad794@gmail.com
+                      `:+ssssssssssssssssss+:`
+                          .-/+oossssoo+/-.
 ```
 
 ### What I'm Up To
@@ -39,8 +44,6 @@
 - Deep diving into **Large Language Models** and fine-tuning
 - Creating intelligent automation pipelines
 - Powered by caffeine and curiosity
-
-<br clear="right"/>
 
 ---
 
