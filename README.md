@@ -102,15 +102,21 @@ me = VaibhavMishra()
 
 <div align="center">
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=V1629&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Vaibhav Mishra github stats" /> 
+<a href="https://github.com/V1629">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=V1629&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Vaibhav Mishra github stats" />
+</a>
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1629&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
+<a href="https://github.com/V1629">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1629&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+</a>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=V1629&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=888888)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img width="100%" src="https://nirzak-streak-stats.vercel.app?user=V1629&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=888888" />
+</a>
 
 </div>
 
@@ -130,7 +136,9 @@ me = VaibhavMishra()
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=V1629&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
+<a href="https://github.com/V1629">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=V1629&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+</a>
 
 </div>
 
@@ -140,7 +148,9 @@ me = VaibhavMishra()
 
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=V1629&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+<a href="https://github.com/V1629">
+  <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=V1629&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+</a>
 
 </div>
 
@@ -150,7 +160,9 @@ me = VaibhavMishra()
 
 ### 💭 Random Dev Quote
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<a href="https://github.com/V1629">
+  <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</a>
 
 </div>
 
@@ -160,7 +172,9 @@ me = VaibhavMishra()
   
 ### 🐍 Watch my contribution snake eat my commits!
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<a href="https://github.com/V1629">
+  <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</a>
 
 </div>
 
