@@ -112,7 +112,9 @@ $ neofetch
 
 <div align="center">
 
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V1629&theme=github_dark"/>
+<img src="https://img.shields.io/github/followers/V1629?style=for-the-badge&color=00D9FF&labelColor=0d1117&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/stars/V1629?style=for-the-badge&color=00D9FF&labelColor=0d1117&logo=github&label=Stars"/>
+<img src="https://img.shields.io/github/commit-activity/y/V1629/V1629?style=for-the-badge&color=00D9FF&labelColor=0d1117&logo=git&label=Commits"/>
 
 </div>
 
