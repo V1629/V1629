@@ -108,11 +108,11 @@ $ neofetch
 
 ---
 
-## GitHub Trophies
+## GitHub Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=V1629&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V1629&theme=github_dark"/>
 
 </div>
 
