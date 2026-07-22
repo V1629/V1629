@@ -19,15 +19,14 @@ $ neofetch
                           .-/+oossssoo+/-.                      vaibhav@github
                       `:+ssssssssssssssssss+:`                  --------------
                     -+ssssssssssssssssssyyssss+-                Uptime: IT Undergrad
-                  .ossssssssssssssssssdMMMNysssso.              Languages: Python,JavaScript,Java
+                  .ossssssssssssssssssdMMMNysssso.              Languages: Python, JavaScript, Java
                  /ssssssssssshdmmNNmmyNMMMMhssssss/             OS: Ubuntu Linux
                 +ssssssssshmydMMMMMMMNddddyssssssss+            Editor: VS Code / Jupyter
                /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/           Focus: Agentic AI Systems
               .ssssssssdMMMNhsssssssssshNMMMdssssssss.          Passion: Deep Learning, LLMs
               +sssshhhyNMMNyssssssssssssyNMMMysssssss+          Shell: Bash / Zsh
               ossyNMMMNyMMhsssssssssssssshmmmhssssssso          Hobby: Gaming, Research Papers
-              ossyNMMMNyMMhsssssssssssssshmmmhssssssso          Quote: "Automate everything"
-              +sssshhhyNMMNyssssssssssssyNMMMysssssss+
+              +sssshhhyNMMNyssssssssssssyNMMMysssssss+          Quote: "Automate everything"
               .ssssssssdMMMNhsssssssssshNMMMdssssssss.          
                /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/           
                 +sssssssssdmydMMMMMMMMddddyssssssss+            
@@ -51,7 +50,9 @@ $ neofetch
 
 <div align="center">
 
-### AI / ML / Deep Learning
+<h3>AI / ML / Deep Learning</h3>
+
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -62,14 +63,22 @@ $ neofetch
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Languages and Web
+<br>
+
+<h3>Languages and Web</h3>
+
+<br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### Tools and Platforms
+<br>
+
+<h3>Tools and Platforms</h3>
+
+<br>
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -86,8 +95,8 @@ $ neofetch
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=V1629&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0d1117"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1629&layout=compact&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0d1117&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=V1629&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1629&layout=compact&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0d1117&langs_count=5"/>
 
 </div>
 
@@ -144,7 +153,7 @@ $ neofetch
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" width="100%"/>
+<img src="https://raw.githubusercontent.com/V1629/V1629/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" width="100%"/>
 
 </div>
 
